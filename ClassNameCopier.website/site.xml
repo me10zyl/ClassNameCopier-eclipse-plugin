@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/ClassNameCopier_1.0.0.jar" id="ClassNameCopier" version="1.0">
-      <category name="ClassNameCopier"/>
-   </feature>
-   <category-def name="ClassNameCopier" label="ClassNameCopier">
-      <description>
-         Class Name Copier
-      </description>
-   </category-def>
+   <description name="hello">
+      hello
+   </description>
 </site>

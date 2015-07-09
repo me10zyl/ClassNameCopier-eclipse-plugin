@@ -2,7 +2,7 @@
 <feature
       id="ClassNameCopier"
       label="ClassNameCopier"
-      version="1.0"
+      version="1.0.0"
       provider-name="ZyL">
 
    <description url="http://www.example.com/description">
